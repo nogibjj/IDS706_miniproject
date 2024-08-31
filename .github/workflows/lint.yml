@@ -9,5 +9,5 @@ jobs:
       - uses: actions/checkout@v4
       - name: lint
         run: |
-          make install
+          make setup
           make lint
