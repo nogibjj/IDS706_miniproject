@@ -1,8 +1,8 @@
 # IDS706 mini project
-![CI](https://github.com/Honji1001/IDS706_miniproject/actions/workflows/CI.yml/badge.svg)
-![Format](https://github.com/Honji1001/IDS706_miniproject/actions/workflows/format.yml/badge.svg)
-![Lint](https://github.com/Honji1001/IDS706_miniproject/actions/workflows/lint.yml/badge.svg)
-![Test](https://github.com/Honji1001/IDS706_miniproject/actions/workflows/test.yml/badge.svg)
+![CI](https://github.com/nogibjj/IDS706_miniproject/actions/workflows/CI.yml/badge.svg)
+![Format](https://github.com/nogibjj/IDS706_miniproject/actions/workflows/format.yml/badge.svg)
+![Lint](https://github.com/nogibjj/IDS706_miniproject/actions/workflows/lint.yml/badge.svg)
+![Test](https://github.com/nogibjj/IDS706_miniproject/actions/workflows/test.yml/badge.svg)
 
 
 ## Instructions
