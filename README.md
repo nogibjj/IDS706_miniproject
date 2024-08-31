@@ -18,7 +18,7 @@ sudo apt-get update
 sudo apt-get install -y python3-venv
 ```
 
-### format
+### Format
 Run test by 
 ```bash
 make format
