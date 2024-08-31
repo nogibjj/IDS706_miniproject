@@ -1,0 +1,6 @@
+{
+    "name": "ids706 mini project",
+    "build": {
+        "dockerfile": "../Dockerfile"
+    }
+}

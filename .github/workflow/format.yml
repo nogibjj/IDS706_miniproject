@@ -1,0 +1,13 @@
+name: format
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: [self-hosted, ubuntu-latest]
+    steps:
+      - uses: actions/checkout@v4
+      - name: format
+        run: |
+          make setup
+          make format
