@@ -37,3 +37,6 @@ Run test by
 ```bash
 make test
 ```
+
+## Git Actions
+There is one self-hosted runner available for Git Actions. CI will be trigger by push on any branch. Format, lint and test can be triggered manually.
