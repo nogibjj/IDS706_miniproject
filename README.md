@@ -12,20 +12,20 @@ You can setup venv by
 ```bash
 make setup
 ```
-If you don't have python3-venv in your local environment, please run
+If you don't have python3-venv in your local environment, please install the package by
 ```bash
 sudo apt-get update
 sudo apt-get install -y python3-venv
 ```
 
 ### Format
-Run test by 
+Run format by 
 ```bash
 make format
 ```
 
 ### Lint
-Run linting by
+Run lint by
 ```bash
 make lint
 ```
@@ -39,4 +39,4 @@ make test
 ```
 
 ## Git Actions
-There is one self-hosted runner available for Git Actions. CI will be trigger by push on any branch. Format, lint and test can be triggered manually.
+There is one self-hosted runner available for Git Actions. CI will be triggered by push on any branch. CI, format, lint and test can all be triggered manually.
